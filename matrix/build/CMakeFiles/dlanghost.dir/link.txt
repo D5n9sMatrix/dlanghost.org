@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdlanghost.a CMakeFiles/dlanghost.dir/dlanghost.cpp.o
+/usr/bin/ranlib libdlanghost.a

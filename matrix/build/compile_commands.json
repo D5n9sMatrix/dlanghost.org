@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Projects/dlanghost.org/matrix/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/dlanghost.dir/dlanghost.cpp.o -c /home/denis/Projects/dlanghost.org/matrix/dlanghost.cpp",
+  "file": "/home/denis/Projects/dlanghost.org/matrix/dlanghost.cpp"
+}
+]
